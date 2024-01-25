@@ -1,5 +1,5 @@
 # Image-Classification-Neural-Network
-This is a multi-layer perceptron from scratch that predicts handwritten digits from 0-9.
+This is a multi-layer perceptron in vanilla python that predicts handwritten digits from 0-9.
 It uses the MNIST Handwritten Numbers Dataset
 Jupyter Notebook.
 2 epochs, 1 hidden layer w nodes=200, sigmoid activation.
